@@ -1,0 +1,20 @@
+.oddElements {
+    background-color: salmon;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+
+.fontSize {
+    font-size: 24px;
+}
+
+#specialFont {
+    color: blue;
+    font-size: 36px;
+}
+
+
+#specialBackground {
+    background-color: lightgreen;
+    font-weight: bold;
+}
